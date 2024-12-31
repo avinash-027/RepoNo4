@@ -1,1 +1,3 @@
-conflict 2
+conflict 1
+
+conflict b/w main and conflict branch of feature.txt file
